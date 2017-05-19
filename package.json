@@ -1,0 +1,23 @@
+{
+  "name": "boq2-17",
+  "version": "1.0.0",
+  "description": "Getting Started on Heroku and Docker with Node.js\r Description:\r https://devcenter.heroku.com/categories/nodejs\r Node.js Essentials\r Getting Started on Heroku with Node.js\r Node.js on Heroku Reference\r How Heroku Works\r Featured Node.js Content\r Optimizing Node.js Application Concurrency\r https://www.docker.com/what-docker\r What is Docker?\r Get started with Docker\r From: TBD\r To: TBD\r Attendees\r Trinh DL\r Tai TT\r Khanh DH\r Hai NT\r Truc ND\r Trung HM\r Huy NQ\r An TN\r Sessions\r Day 1\r TBD\r Day 2\r TBD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hai2219/boq2-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hai2219/boq2-17/issues"
+  },
+  "homepage": "https://github.com/hai2219/boq2-17#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
